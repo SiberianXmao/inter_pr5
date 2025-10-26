@@ -1,0 +1,1 @@
+web: java -jar target/inter_pr5-0.0.1-SNAPSHOT.jar
